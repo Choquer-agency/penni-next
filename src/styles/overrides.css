@@ -1,0 +1,230 @@
+.splide__track {
+  overflow: visible;
+}
+
+/* Hero subheading: white only on mobile (keeps original purple on tablet/desktop) */
+@media (max-width: 767px) {
+  header.section .container.header .text-style-subheading {
+    color: #fff !important;
+  }
+}
+
+/* Mobile nav: hamburger replaces Blogs + Start Saving Today buttons */
+@media (max-width: 767px) {
+  /* Hide all the desktop nav items so only logo + hamburger remain */
+  .g-nav .nav-linkblock,
+  .g-nav .button.calendly-trade,
+  .g-nav .g-nav_menu {
+    display: none !important;
+  }
+  .g-nav,
+  .g-nav .g-nav_container {
+    justify-content: space-between !important;
+  }
+  .g-nav_mobile-trigger {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    padding: 0 !important;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    margin-left: auto;
+    position: relative;
+    z-index: 2100;
+  }
+  /* CSS hamburger icon (3 stacked bars) */
+  .g-nav_mobile-icon {
+    width: 24px;
+    height: 18px;
+    position: relative;
+    background: transparent !important;
+    display: block;
+  }
+  .g-nav_mobile-icon::before,
+  .g-nav_mobile-icon::after,
+  .g-nav_mobile-icon span.bar {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: currentColor;
+    border-radius: 2px;
+    transition: transform 0.25s ease, opacity 0.2s ease, top 0.25s ease;
+  }
+  .g-nav_mobile-icon::before { top: 0; }
+  .g-nav_mobile-icon span.bar { top: 8px; }
+  .g-nav_mobile-icon::after { top: 16px; }
+  .g-nav .g-nav_mobile-trigger { color: #fff !important; }
+
+  /* Open state: X */
+  .g-nav_mobile-trigger.is-open .g-nav_mobile-icon::before { top: 8px; transform: rotate(45deg); }
+  .g-nav_mobile-trigger.is-open .g-nav_mobile-icon::after  { top: 8px; transform: rotate(-45deg); }
+  .g-nav_mobile-trigger.is-open .g-nav_mobile-icon span.bar { opacity: 0; }
+
+  /* Dropdown panel that appears below the nav when the hamburger is open */
+  .g-nav_mobile-menu {
+    position: fixed;
+    top: 64px;
+    left: 0;
+    right: 0;
+    background: #fff;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    padding: 1.25rem 1.5rem 1.5rem;
+    display: none;
+    flex-direction: column;
+    gap: 0.75rem;
+    z-index: 1999;
+  }
+  .g-nav_mobile-menu.is-open { display: flex; }
+  .g-nav.is-scrolled + .g-nav_mobile-menu,
+  .g-nav_mobile-menu { /* keep simple light bg always */ }
+  .g-nav_mobile-menu a {
+    text-decoration: none;
+    font-family: "Product sans", sans-serif;
+    font-size: 1.125rem;
+    color: var(--text-purple, #3a3080);
+  }
+  .g-nav_mobile-menu a.button {
+    background-color: var(--penni-purple, #7963ff);
+    color: #fff;
+    border-radius: 50vw;
+    padding: 0.85rem 1.5rem;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+}
+
+/* Penni Blog section: tighten the gap between the "Penni Blog / View All" header and the cards, and add a bit more breathing room above the header. */
+.splide.penni-blog {
+  margin-top: 2.5rem !important; /* 50% of original 5rem */
+}
+section.section:has(.splide.penni-blog) {
+  padding-top: 6rem; /* ~20% increase over the implicit section spacing */
+}
+
+/* Mobile blog cards (the /blog page): match the reference design exactly. Applies at all widths so it also fixes desktop oddities; image height kept reasonable for mobile. */
+.articles_item.is--cms {
+  justify-content: flex-start !important;
+  height: auto !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+.articles_item.is--cms .article_image-wrapper {
+  margin: 0 0 1.25rem 0 !important;
+  padding: 0 !important;
+}
+.articles_item.is--cms .article_image {
+  width: 100% !important;
+  height: 16rem !important;
+  aspect-ratio: auto !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  border-radius: 1em !important;
+  display: block !important;
+}
+.articles_item.is--cms .article_grid-bottom {
+  margin: 0 !important;
+  padding: 0 !important;
+  height: auto !important;
+  justify-content: flex-start !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+.articles_item.is--cms .article_details {
+  margin: 0 0 0.75rem 0 !important;
+  padding: 0 !important;
+}
+.articles_item.is--cms .article_date {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.articles_item.is--cms .text-style-articletitle,
+.articles_item.is--cms .text-style-articletitle.blog {
+  font-size: 1.25rem !important;
+  line-height: 1.3 !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+.articles_item.is--cms {
+  margin-bottom: 3rem !important;
+}
+/* Kill the .blogs:first-child {margin-bottom: 10em} override that made blog #1 push everything down */
+.blogs:first-child {
+  margin-bottom: 0 !important;
+}
+.blogs {
+  margin-bottom: 0 !important;
+}
+
+/* Mobile Penni Blog: stack the two blog cards vertically instead of side-by-side Splide carousel */
+@media (max-width: 767px) {
+  .splide.penni-blog .splide__track {
+    overflow: visible !important;
+  }
+  .splide.penni-blog .splide__list {
+    display: flex !important;
+    flex-direction: column !important;
+    transform: none !important;
+    gap: 2rem;
+    width: 100% !important;
+  }
+  .splide.penni-blog .splide__slide {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+}
+
+/* Article detail page: match the nav's horizontal padding on mobile so the line length is wider */
+@media (max-width: 767px) {
+  .container.is--article-content,
+  .container.is--blog-header,
+  .container.is--related {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+    max-width: 100% !important;
+  }
+}
+
+/* Featured-blog card image fills the container */
+.featured-blog_image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Nav background animates from transparent (over hero) to navy after scroll */
+.g-nav {
+  transition: background-color 0.25s ease;
+}
+.g-nav.is-scrolled {
+  background-color: #1e203a !important;
+}
+.g-nav.is-scrolled,
+.g-nav.is-scrolled .c-nav_link-text,
+.g-nav.is-scrolled .nav-linkblock,
+.g-nav.is-scrolled .nav-linkblock div,
+.g-nav.is-scrolled .dropdown_title,
+.g-nav.is-scrolled .dropdown_link {
+  color: #fff !important;
+}
+/* Invert the Penni logo SVG (which uses currentColor / dark fill) when nav is scrolled */
+.g-nav.is-scrolled .g-nav_logo-home svg,
+.g-nav.is-scrolled .g-nav_logo-home svg path {
+  fill: #fff !important;
+  color: #fff !important;
+}
+::selection {
+  background: #ededff;
+  color: #7e83f2;
+  text-shadow: none;
+}
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { background: rgb(255, 255, 255); }
+::-webkit-scrollbar-thumb { background: rgb(121, 91, 255); }

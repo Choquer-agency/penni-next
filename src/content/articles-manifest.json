@@ -1,0 +1,802 @@
+[
+  {
+    "slug": "understanding-the-different-types-of-payment-processing-options-available-for-accounting-firms-a-look-at-credit-card-processing-ach-payments-and-e-checks",
+    "title": "Understanding the different types of payment processing options available for accounting firms: a look at credit card processing, ACH payments, and e-checks.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f6fb51815251ddf8a8e4_jpg%20(81).jpeg",
+    "date": "January 31, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-use-of-virtual-cards-and-virtual-wallets-in-accounting-and-payment-processing-a-comparison-of-different-tools-like-apple-pay-and-google-wallet",
+    "title": "The use of virtual cards and virtual wallets in accounting and payment processing: a comparison of different tools like Apple Pay and Google Wallet.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f652e05b08293fa881c2_jpg%20(80).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-use-of-online-invoicing-and-recurring-payments-in-accounting-a-comparison-of-different-tools-like-freshbooks-and-quickbooks-online",
+    "title": "The use of online invoicing and recurring payments in accounting: a comparison of different tools like FreshBooks and QuickBooks Online.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f5b4daf96d712a520cda_jpg%20(79).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-role-of-machine-learning-and-artificial-intelligence-in-payment-processing-a-look-at-predictive-analytics-and-fraud-detection",
+    "title": "The role of machine learning and artificial intelligence in payment processing: a look at predictive analytics and fraud detection.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f520b1c3bdec6caeaa2b_jpg%20(77).jpeg",
+    "date": "January 30, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-role-of-blockchain-technology-in-accounting-and-payment-processing-a-look-at-smart-contracts-and-decentralized-ledgers",
+    "title": "The role of blockchain technology in accounting and payment processing: a look at smart contracts and decentralized ledgers.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f45248506dc751d8d7fb_jpg%20(76).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-digital-currencies-on-accounting-and-payment-processing-a-discussion-of-bitcoin-and-ethereum",
+    "title": "The impact of digital currencies on accounting and payment processing: a discussion of Bitcoin and Ethereum.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f2ecbf0283222ac890d1_jpg%20(75).jpeg",
+    "date": "February 23, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "the-benefits-and-drawbacks-of-using-mobile-payments-in-accounting-a-comparison-of-different-mobile-point-of-sale-systems",
+    "title": "The benefits and drawbacks of using mobile payments in accounting: a comparison of different mobile point-of-sale systems.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f1400913f56ca587721d_jpg%20(73).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-benefits-and-drawbacks-of-different-payment-processing-platforms-for-accounting-firms-a-comparison-of-square-stripe-paypal-and-others",
+    "title": "The benefits and drawbacks of different payment processing platforms for accounting firms: a comparison of Square, Stripe, PayPal, and others.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2f07ce6d4da27fe644434_jpg%20(72).jpeg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "virtual-reality-and-payment-processing-a-look-at-how-payment-processing-companies-are-adapting-to-the-growing-popularity-of-virtual-reality-gaming",
+    "title": "Virtual reality and payment processing: A look at how payment processing companies are adapting to the growing popularity of virtual reality gaming.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2efb135189ce907475194_jpg%20(71).jpeg",
+    "date": "February 3, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-security-of-in-game-payments-a-look-at-the-measures-payment-processing-companies-are-taking-to-ensure-the-safety-and-security-of-in-game-transactions",
+    "title": "The security of in-game payments: A look at the measures payment processing companies are taking to ensure the safety and security of in-game transactions.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ef096f8ea2a31911e54a_jpg%20(70).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-role-of-payment-processing-in-game-monetization-an-examination-of-how-payment-processing-companies-help-game-developers-monetize-their-games-through-in-app-purchases-and-other-revenue-streams",
+    "title": "The role of payment processing in game monetization: An examination of how payment processing companies help game developers monetize their games through in-app purchases and other revenue streams.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ee670fb57d9275ba7f8a_jpg%20(69).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-role-of-contactless-payments-in-accounting-and-payment-processing",
+    "title": "The role of contactless payments in accounting and payment processing",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2eda6bf56f10520a5e698_jpg%20(68).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-rise-of-cryptocurrency-an-exploration-of-how-payment-processing-companies-are-incorporating-cryptocurrency-into-their-offerings",
+    "title": "The rise of cryptocurrency: An exploration of how payment processing companies are incorporating cryptocurrency into their offerings.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ecd12af4b3dc70172519_jpg%20(67).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-regulations-on-payment-processing-an-examination-of-how-regulatory-changes-affect-payment-processing-companies",
+    "title": "The impact of regulations on payment processing: An examination of how regulatory changes affect payment processing companies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ec0c359d5bd550e97370_jpg%20(66).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-regulations-on-gaming-and-payment-processing-an-analysis-of-how-regulatory-changes-such-as-laws-surrounding-gambling-affect-both-the-gaming-industry-and-payment-processing-companies",
+    "title": "The impact of regulations on gaming and payment processing: An analysis of how regulatory changes, such as laws surrounding gambling, affect both the gaming industry and payment processing companies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2eb25d79249534dd53385_jpg%20(65).jpeg",
+    "date": "January 27, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-e-commerce-on-payment-processing-a-look-at-how-the-rise-of-online-shopping-has-affected-payment-processing-companies",
+    "title": "The impact of e-commerce on payment processing: A look at how the rise of online shopping has affected payment processing companies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ea550913f578d7870114_jpg%20(64).jpeg",
+    "date": "November 17, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-cryptocurrency-on-gaming-an-examination-of-how-payment-processing-companies-are-incorporating-cryptocurrency-into-their-offerings-for-the-gaming-industry",
+    "title": "The impact of cryptocurrency on gaming: An examination of how payment processing companies are incorporating cryptocurrency into their offerings for the gaming industry.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e994c6ac4129b5d5cef9_jpg%20(63).jpeg",
+    "date": "February 2, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-covid-19-on-accounting-and-payment-processing",
+    "title": "The impact of COVID-19 on accounting and payment processing",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e8ede6d4da23b463bc1b_jpg%20(62).jpeg",
+    "date": "February 2, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-future-of-cashless-payments-an-analysis-of-the-trends-and-technologies-shaping-the-future-of-cashless-payments",
+    "title": "The future of cashless payments: An analysis of the trends and technologies shaping the future of cashless payments.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e811c6ac41529ed5b449_jpg%20(61).jpeg",
+    "date": "February 4, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-cost-of-fraud-an-examination-of-the-financial-impact-of-fraud-on-payment-processing-companies",
+    "title": "The cost of fraud: An examination of the financial impact of fraud on payment processing companies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e71ae6d4da1f1963a446_jpg%20(60).jpeg",
+    "date": "December 1, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "the-benefits-of-using-a-payment-processing-service-for-your-accounting-firm",
+    "title": "The benefits of using a payment processing service for your accounting firm",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e679359d5b74e0e8f37a_jpg%20(59).jpeg",
+    "date": "January 29, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-trends-in-accounting-what-to-expect-in-the-future",
+    "title": "Payment processing trends in accounting: what to expect in the future",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e5c81856e428ddbb5436_jpg%20(58).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-in-the-gig-economy-a-look-at-how-payment-processing-companies-are-adapting-to-the-growth-of-the-gig-economy",
+    "title": "Payment processing in the gig economy: A look at how payment processing companies are adapting to the growth of the gig economy.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e5200b0e050336262d50_jpg%20(57).jpeg",
+    "date": "December 31, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-in-developing-markets-a-study-of-the-challenges-and-opportunities-facing-payment-processing-companies-in-developing-economies",
+    "title": "Payment processing in developing markets: A study of the challenges and opportunities facing payment processing companies in developing economies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e48be05b08303aa73431_jpg%20(56).jpeg",
+    "date": "February 3, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-virtual-goods-a-look-at-how-payment-processing-companies-are-facilitating-transactions-for-virtual-goods-within-gaming-and-virtual-reality",
+    "title": "Payment processing for virtual goods: A look at how payment processing companies are facilitating transactions for virtual goods within gaming and virtual reality.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e177aeadeb6ad529eae6_jpg%20(55).jpeg",
+    "date": "January 30, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-virtual-economies-an-examination-of-the-role-payment-processing-companies-play-in-facilitating-transactions-within-virtual-economies-within-games",
+    "title": "Payment processing for virtual economies: An examination of the role payment processing companies play in facilitating transactions within virtual economies within games.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2e0bd359d5b0b37e88eba_jpg%20(54).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-subscription-based-gaming-a-discussion-of-the-recurring-payment-needs-of-subscription-based-gaming-and-how-payment-processing-companies-are-addressing-them",
+    "title": "Payment processing for subscription-based gaming: A discussion of the recurring payment needs of subscription-based gaming and how payment processing companies are addressing them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2dffa5482bdd49dd8957d_jpg%20(53).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-online-gaming-communities-an-analysis-of-the-role-payment-processing-companies-play-in-facilitating-transactions-within-online-gaming-communities",
+    "title": "Payment processing for online gaming communities: An analysis of the role payment processing companies play in facilitating transactions within online gaming communities.",
+    "description": "INTRODUCTION",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2df340fb57db745b96913_jpg%20(52).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-mobile-gaming-a-discussion-of-the-specific-needs-of-mobile-gamers-and-how-payment-processing-companies-are-meeting-them",
+    "title": "Payment processing for mobile gaming: A discussion of the specific needs of mobile gamers and how payment processing companies are meeting them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2de9bf8c9f50599b1a520_jpg%20(51).jpeg",
+    "date": "January 27, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-gaming-tournaments-and-competitions-a-discussion-of-the-specific-needs-of-tournament-organizers-and-how-payment-processing-companies-are-meeting-them",
+    "title": "Payment processing for gaming tournaments and competitions: A discussion of the specific needs of tournament organizers and how payment processing companies are meeting them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2de2f66b7e5ff66154a9f_jpg%20(50).jpeg",
+    "date": "January 27, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-gaming-rental-and-leasing-an-examination-of-how-payment-processing-companies-are-facilitating-rental-and-leasing-of-games-virtual-items-and-other-digital-assets",
+    "title": "Payment processing for gaming rental and leasing: An examination of how payment processing companies are facilitating rental and leasing of games, virtual items and other digital assets.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2dc420807593c50293ca4_jpg%20(49).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-gaming-live-streaming-a-discussion-of-the-specific-needs-of-gamers-and-game-developers-who-monetize-through-live-streaming-and-how-payment-processing-companies-are-addressing-them",
+    "title": "Payment processing for gaming live streaming: A discussion of the specific needs of gamers and game developers who monetize through live streaming, and how payment processing companies are addressing them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2db34e6d4da6e8962c34a_jpg%20(48).jpeg",
+    "date": "January 31, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-gaming-crowdfunding-a-discussion-of-the-unique-needs-of-crowdfunding-campaigns-for-games-and-how-payment-processing-companies-are-addressing-them",
+    "title": "Payment processing for gaming crowdfunding: A discussion of the unique needs of crowdfunding campaigns for games and how payment processing companies are addressing them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2da87fe9487f8760007bb_jpg%20(47).jpeg",
+    "date": "September 29, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-gaming-and-virtual-reality-arcades-a-look-at-how-payment-processing-companies-are-supporting-the-growth-of-gaming-and-virtual-reality-arcades-and-the-specific-needs-of-these-businesses",
+    "title": "Payment processing for gaming and virtual reality arcades: A look at how payment processing companies are supporting the growth of gaming and virtual reality arcades, and the specific needs of these businesses.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d9982af4b361f415a7ac_jpg%20(46).jpeg",
+    "date": "October 20, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-game-related-merchandise-an-examination-of-how-payment-processing-companies-facilitate-transactions-for-game-related-merchandise-such-as-t-shirts-hoodies-and-other-items",
+    "title": "Payment processing for game-related merchandise: An examination of how payment processing companies facilitate transactions for game-related merchandise, such as t-shirts, hoodies, and other items.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d8da6f63ea20062a70d6_jpg%20(45).jpeg",
+    "date": "September 23, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-game-subscription-services-a-discussion-of-how-payment-processing-companies-support-game-developers-offering-subscription-based-services-and-games",
+    "title": "Payment processing for game subscription services: A discussion of how payment processing companies support game developers offering subscription-based services and games.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d81d9ff6fa33dd866609_jpg%20(44).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-game-developers-a-look-at-the-specific-needs-of-game-developers-when-it-comes-to-payment-processing-and-how-companies-are-addressing-them",
+    "title": "Payment processing for game developers: A look at the specific needs of game developers when it comes to payment processing and how companies are addressing them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d7167adce3404beebfac_jpg%20(43).jpeg",
+    "date": "January 31, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-game-crowdfunding-platforms-a-look-at-how-payment-processing-companies-support-crowdfunding-platforms-for-games-including-kickstarter-indiegogo-and-others",
+    "title": "Payment processing for game crowdfunding platforms: A look at how payment processing companies support crowdfunding platforms for games, including Kickstarter, Indiegogo and others.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d64f19b63438cfa9220b_jpg%20(42).jpeg",
+    "date": "February 6, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-game-add-ons-and-dlc-an-analysis-of-how-payment-processing-companies-support-game-developers-monetizing-through-add-ons-and-downloadable-content",
+    "title": "Payment processing for game add-ons and DLC: An analysis of how payment processing companies support game developers monetizing through add-ons and downloadable content.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d5837adce33fa2ee9ea9_jpg%20(41).jpeg",
+    "date": "February 3, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-for-cross-border-gaming-a-look-at-the-challenges-and-opportunities-of-processing-payments-for-gamers-and-game-developers-in-different-countries",
+    "title": "Payment processing for cross-border gaming: A look at the challenges and opportunities of processing payments for gamers and game developers in different countries.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d4b71fcd6e376927bdef_jpg%20(40).jpeg",
+    "date": "February 2, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-the-future-of-gaming-an-exploration-of-the-trends-and-technologies-shaping-the-future-of-gaming-and-how-payment-processing-companies-are-positioning-themselves-to-take-advantage-of-them",
+    "title": "Payment processing and the future of gaming: An exploration of the trends and technologies shaping the future of gaming and how payment processing companies are positioning themselves to take advantage of them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d3b11fcd6e89fc27ab23_jpg%20(39).jpeg",
+    "date": "December 31, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-the-customer-experience-an-analysis-of-how-payment-processing-companies-can-improve-the-customer-experience",
+    "title": "Payment processing and the customer experience: An analysis of how payment processing companies can improve the customer experience.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d18219b6343215a8c11a_jpg%20(38).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-small-businesses-a-look-at-the-unique-challenges-and-opportunities-facing-small-businesses-when-it-comes-to-payment-processing",
+    "title": "Payment processing and small businesses: A look at the unique challenges and opportunities facing small businesses when it comes to payment processing.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d0b962c23cca02e2823f_jpg%20(37).jpeg",
+    "date": "November 3, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-player-retention-a-look-at-how-payment-processing-companies-can-help-game-developers-increase-player-retention-by-making-in-game-transactions-seamless-and-frictionless",
+    "title": "Payment processing and player retention: A look at how payment processing companies can help game developers increase player retention by making in-game transactions seamless and frictionless.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2d00fe8208595e93b1e02_jpg%20(36).jpeg",
+    "date": "January 31, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-game-as-a-service-model-an-analysis-of-how-payment-processing-companies-support-game-developers-who-adopt-game-as-a-service-model-and-the-specific-needs-of-this-business-model",
+    "title": "Payment processing and game-as-a-service model: An analysis of how payment processing companies support game developers who adopt game-as-a-service model, and the specific needs of this business model.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2cf39ff64aa224a259e81_jpg%20(35).jpeg",
+    "date": "February 3, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-game-revenue-models-a-discussion-of-the-various-revenue-models-used-in-the-gaming-industry-such-as-freemium-subscription-based-and-pay-to-play-and-how-payment-processing-companies-support-them",
+    "title": "Payment processing and game revenue models: A discussion of the various revenue models used in the gaming industry, such as freemium, subscription-based, and pay-to-play, and how payment processing companies support them.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ce3bc24a2b9f0cc93103_jpg%20(34).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-game-localization-an-examination-of-how-payment-processing-companies-support-game-developers-in-localizing-their-games-for-different-markets-and-currencies",
+    "title": "Payment processing and game localization: An examination of how payment processing companies support game developers in localizing their games for different markets and currencies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2cd2d2e12fa541699a72b_jpg%20(33).jpeg",
+    "date": "February 23, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "payment-processing-and-game-analytics-a-discussion-of-how-payment-processing-companies-provide-game-developers-with-valuable-analytics-on-player-behavior-and-spending",
+    "title": "Payment processing and game analytics: A discussion of how payment processing companies provide game developers with valuable analytics on player behavior and spending.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2cbf119b6344f12a84cae_jpg%20(32).jpeg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "mobile-payments-on-the-rise-a-study-of-the-increasing-popularity-of-mobile-payments-and-how-it-affects-payment-processing-companies",
+    "title": "Mobile payments on the rise: A study of the increasing popularity of mobile payments and how it affects payment processing companies.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2ca349ff6fabfd5854ebe_jpg%20(31).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "in-app-purchases-and-payment-processing-an-analysis-of-how-payment-processing-companies-facilitate-in-app-purchases-and-other-microtransactions-within-games",
+    "title": "In-app purchases and payment processing: An analysis of how payment processing companies facilitate in-app purchases and other microtransactions within games.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2c93dadb9a65bc06af8d0_jpg%20(30).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "how-to-protect-your-accounting-firm-from-payment-processing-fraud",
+    "title": "How to protect your accounting firm from payment processing fraud",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2c72719229c21702939d8_jpg%20(29).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "how-to-optimize-your-accounting-firms-payment-processing-workflow",
+    "title": "How to optimize your accounting firm&#x27;s payment processing workflow",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2c5cb5bc90708ece07b65_jpg%20(28).jpeg",
+    "date": "February 1, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "how-to-integrate-payment-processing-into-your-accounting-software",
+    "title": "How to integrate payment processing into your accounting software",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2c4ca7fe3f5c02f5e878a_jpg%20(27).jpeg",
+    "date": "February 3, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "how-to-ensure-compliance-with-data-privacy-regulations-in-payment-processing-for-accounting-firms",
+    "title": "How to ensure compliance with data privacy regulations in payment processing for accounting firms",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2bec219b634a4c7a76e0b_jpg%20(26).jpeg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "how-to-choose-the-best-payment-processing-solution-for-your-accounting-firm",
+    "title": "How to choose the best payment processing solution for your accounting firm",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2bd887adce35ce4ecc6e2_jpg%20(25).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "how-payment-processing-is-shaping-the-future-of-online-gaming-an-analysis-of-the-latest-trends-and-technologies-in-the-gaming-industry-and-how-payment-processing-companies-are-keeping-up",
+    "title": "How payment processing is shaping the future of online gaming: An analysis of the latest trends and technologies in the gaming industry and how payment processing companies are keeping up.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2bd3594264734d947e06c_jpg%20(24).jpeg",
+    "date": "October 27, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "e-sports-and-payment-processing-an-examination-of-the-unique-challenges-and-opportunities-facing-payment-processing-companies-in-the-world-of-competitive-gaming",
+    "title": "E-sports and payment processing: An examination of the unique challenges and opportunities facing payment processing companies in the world of competitive gaming.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b9aaf6f462d5cf01fe47_jpg%20(22).jpeg",
+    "date": "February 16, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "comparison-of-different-payment-processing-options-for-accounting-firms-pros-and-cons",
+    "title": "Comparison of different payment processing options for accounting firms: pros and cons.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b86eea1972245b6d9151_jpg%20(21).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-future-of-online-gaming-how-payment-processing-is-changing-the-industry",
+    "title": "The Future of Online Gaming: How Payment Processing is Changing the Industry",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b7a9fd4b8e4449663030_jpg%20(20).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "uncovering-the-hidden-gems-why-elavon-outshines-stripe-as-the-ultimate-payment-gateway-solution",
+    "title": "Uncovering the hidden gems: Why Elavon outshines Stripe as the ultimate payment gateway solution",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b3ed762bb8c041c48acd_jpg%20(16).jpeg",
+    "date": "January 30, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-rise-of-contactless-payments-how-to-prepare-your-business-for-the-shift-towards-tap-and-pay-technology",
+    "title": "The rise of contactless payments: How to prepare your business for the shift towards tap-and-pay technology",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b3ed762bb8c041c48acd_jpg%20(16).jpeg",
+    "date": "December 31, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "the-importance-of-user-experience-in-ecommerce-shopping-carts",
+    "title": "The importance of user experience in ecommerce shopping carts",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b3ed762bb8c041c48acd_jpg%20(16).jpeg",
+    "date": "February 6, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "the-impact-of-covid-19-on-payment-processing-how-the-pandemic-has-changed-the-way-businesses-handle-payments",
+    "title": "The impact of Covid-19 on payment processing: How the pandemic has changed the way businesses handle payments",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b3ed762bb8c041c48acd_jpg%20(16).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "streamlining-legal-transactions-how-a-payment-processor-can-save-time-and-money-for-law-offices",
+    "title": "Streamlining legal transactions: How a payment processor can save time and money for law offices",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b323bf3592182a507156_jpg%20(15).jpeg",
+    "date": "February 10, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "security-considerations-when-using-an-ecommerce-shopping-cart",
+    "title": "Security considerations when using an ecommerce shopping cart",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d2b23b2055957ea8148bc2_jpg%20(14).jpeg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "security-and-compliance-in-legal-payments-how-a-payment-processor-can-help-law-offices-meet-industry-regulations",
+    "title": "Security and Compliance in legal payments: How a payment processor can help law offices meet industry regulations&quot;",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1cfa230ce1b2b0eae5e36_jpg%20(13).jpeg",
+    "date": "February 2, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "managing-chargebacks-strategies-for-minimizing-chargebacks-and-protecting-your-businesss-revenue",
+    "title": "Managing chargebacks: Strategies for minimizing chargebacks and protecting your business&#x27;s revenue",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1ce8225f4c976b5b793da_jpg%20(12).jpeg",
+    "date": "August 17, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "innovations-in-legal-payments-how-a-payment-processor-can-help-law-offices-stay-current-with-the-latest-trends",
+    "title": "Innovations in legal payments: How a payment processor can help law offices stay current with the latest trends",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1cd9830ce1b56a2ae3843_jpg%20(11).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "going-digital-how-a-payment-processor-can-help-law-offices-improve-their-online-payment-options",
+    "title": "Going digital: How a payment processor can help law offices improve their online payment options",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1cc75942f2dd5feabc305_jpg%20(10).jpeg",
+    "date": "February 5, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "flexibility-and-scalability-how-a-payment-processor-can-help-law-offices-adapt-to-changing-client-needs",
+    "title": "Flexibility and scalability: How a payment processor can help law offices adapt to changing client needs",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1cb3de2874a257732a929_jpg%20(9).jpeg",
+    "date": "January 30, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "exploring-the-depths-how-elavon-surpasses-moneris-as-the-premier-payment-gateway-solution",
+    "title": "Exploring the depths: How Elavon surpasses Moneris as the premier payment gateway solution",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c9e3e89a970ce0b8a2b5_jpg%20(8).jpeg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "ensuring-accuracy-how-a-payment-processor-can-help-law-offices-eliminate-errors-and-reduce-disputes",
+    "title": "Ensuring accuracy: How a payment processor can help law offices eliminate errors and reduce disputes",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c8b4c496b25adeda9b74_jpg%20(7).jpeg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "efficiency-and-convenience-how-a-payment-processor-can-help-law-offices-streamline-client-payments",
+    "title": "Efficiency and convenience: How a payment processor can help law offices streamline client payments",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c7cdf89ecde999853742_jpg%20(6).jpeg",
+    "date": "February 2, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "comparing-the-top-ecommerce-shopping-cart-platforms",
+    "title": "Comparing the top ecommerce shopping cart platforms",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c6f47411795819e4c0f2_jpg%20(5).jpeg",
+    "date": "February 4, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "client-trust-and-security-how-a-payment-processor-can-help-law-offices-meet-compliance-requirements",
+    "title": "Client trust and security: How a payment processor can help law offices meet compliance requirements",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c569942f2df4d7ab251d_jpg%20(4).jpeg",
+    "date": "January 26, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "best-practices-for-managing-and-maintaining-your-ecommerce-shopping-cart",
+    "title": "Best practices for managing and maintaining your ecommerce shopping cart",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c508e6a270b23def22fa_jpg%20(3).jpeg",
+    "date": "November 3, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "discussing-the-importance-of-security-and-compliance-in-payment-processing-for-accounting-firms-including-hipaa-and-pci-compliance",
+    "title": "Discussing the importance of security and compliance in payment processing for accounting firms, including HIPAA and PCI compliance.",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c2e78ee9bb91f4efd95e_jpg%20(1).jpeg",
+    "date": "December 26, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "discussing-the-future-of-payment-processing-for-accounting-firms-including-the-potential-impact-of-emerging-technologies-like-5g-and-the-internet-of-things",
+    "title": "Discussing the future of payment processing for accounting firms, including the potential impact of emerging technologies like 5G and the Internet of Things.",
+    "description": "The landscape of payment processing for accounting businesses is always changing. It is becoming more and more clear that emerging technologies like 5G and the Internet of Things (IoT) could have an impact on how accounting companies proces",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63d1c3882b53c5d0e254fad7_jpg%20(2).jpeg",
+    "date": "February 1, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "guide-to-securing-your-e-commerce-stores-payment-process",
+    "title": "guide to securing your e-commerce store&#x27;s payment process",
+    "description": "‍",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcba057f3421a26cb086c_6Penni-Blogs-fast.jpg",
+    "date": "February 6, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "accepting-payments-with-an-online-payment-gateway",
+    "title": "Accepting payments with an online payment gateway",
+    "description": "Introduction to Accepting payments with an online payment gateway:",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcbd61504f94a29eb64a5_Penni-Blogs-fas8t.jpg",
+    "date": "December 29, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "credit-card-processing-for-e-commerce",
+    "title": "Credit Card Processing for E-Commerce",
+    "description": "Because they typically accept payments through their websites rather than at a physical location, businesses that engage in e-commerce must take into account a unique set of factors when it comes to the processing of credit cards. In this b",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcb8410dd5766a8276de3_Penni-Blogs-fast.jpg",
+    "date": "December 31, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "the-ultimate-guide-to-payment-processing-for-subscription-services",
+    "title": "The Ultimate Guide to Payment Processing for Subscription Services",
+    "description": "As a business owner, it&#x27;s essential to have a reliable and efficient payment processing system in place, especially if you offer subscription-based services. This facilitates consumer payment for your goods or services while also strea",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcc1e2c152d1de7f7bd00_43Penni-Blogs-fast.jpg",
+    "date": "February 16, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "setting-up-an-online-payment-gateway",
+    "title": "Setting up an online payment gateway",
+    "description": "Installing a payment gateway for online transactions A payment gateway for online transactions is a safe and reliable electronic service that enables companies to collect payments from clients via the internet. Customers are able to make pu",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcbca67bbed7aef80fb18_3Penni-Blogs-fast.jpg",
+    "date": "February 1, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "choosing-an-online-payment-gateway",
+    "title": "Choosing an online payment gateway",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcbc05808d3a13f363908_5Penni-Blogs-fast.jpg",
+    "date": "February 6, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "types-of-online-payment-gateways",
+    "title": "Types of online payment gateways",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcbae83088c51f75a13c7_7Penni-Blogs-fast.jpg",
+    "date": "February 1, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "online-payment-gateways",
+    "title": "Online payment gateways",
+    "description": "",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63afcba057f3421a26cb086c_6Penni-Blogs-fast.jpg",
+    "date": "January 27, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "credit-card-processing-trends",
+    "title": "Credit Card Processing Trends",
+    "description": "The field of credit card processing is one that is consistently undergoing change, with new tendencies appearing on a regular basis. In the following post, we will talk about some of the most significant trends in credit card processing, as",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63aa0632aba7a85a8575d209_payment-terminal.jpg",
+    "date": "January 27, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "credit-card-processing-for-small-businesses",
+    "title": "Credit Card Processing for Small Businesses",
+    "description": "When it comes to handling credit card transactions, small businesses frequently have specific requirements. It&#x27;s possible that they have limited resources and are searching for solutions that are both affordable and efficient in order ",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63aa0594c629470df0e857d5_buying-baby-clothes-ecommerce.jpg",
+    "date": "February 2, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "fraud-prevention-in-credit-card-processing",
+    "title": "Fraud Prevention in Credit Card Processing",
+    "description": "Processing credit card transactions requires taking precautions against fraudulent activity, such as installing security protocols and using software that detects fraud. This blog post will provide a more in-depth discussion of these measur",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63aa04eaddf2270d974cc117_paying-with-tap-watch.jpg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "choosing-a-credit-card-processor",
+    "title": "Choosing a Credit Card Processor",
+    "description": "As a business owner, it is important to choose a credit card processor that meets your needs and helps you maximize your profits. In this blog, we will discuss some factors to consider when choosing a credit card processor, as well as how P",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63aa041e3eb254d10130d6d8_paying-with-device-small-business.jpg",
+    "date": "February 7, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "credit-card-processing-fees",
+    "title": "Credit Card Processing Fees",
+    "description": "As a merchant, you may incur various fees when processing credit card transactions. Understanding these fees can help you make informed decisions about which credit card processing solution is best for your business. In this blog, we will d",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63a9e4f6c73ddf768ee94652_payment-tap-phone.jpg",
+    "date": "January 31, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "types-of-credit-card-processing",
+    "title": "Types of Credit Card Processing",
+    "description": "Credit card processing refers to the process of accepting and verifying credit card payments from customers. There are several different types of credit card processing, including in-person, online, and mobile. In this blog, we will discuss",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63a9e454f3af9920425952c9_credit-card-payment.jpg",
+    "date": "September 23, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "introduction-to-credit-card-processing",
+    "title": "Introduction to Credit Card Processing",
+    "description": "Credit card processing refers to the process of accepting and verifying credit card payments from customers. This process typically involves a credit card terminal or machine, which is a device that is used to read and process credit card t",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/63a9e104860562eefc2f8e0c_paying-with-credit-card.jpg",
+    "date": "September 23, 2022",
+    "reading": "12"
+  },
+  {
+    "slug": "virtual-terminal-credit-card-processing-for-a-law-office-a-complete-guide",
+    "title": "Virtual Terminal Credit Card Processing For A Law Office: A Complete Guide",
+    "description": "Today, 82% of American consumers and 78% of Canadian consumers use virtual terminal credit card processing.",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/632e1c25a7cdd14c0f60f1fd_Penni-lawfirm-min.jpg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "how-payment-processing-in-canada-works",
+    "title": "How Payment Processing in Canada Works",
+    "description": "Online sales are increasing every year. With Canada being such a big market, you can&#x27;t afford to ignore its e-commerce potential. However, payment processing in Canada is a bit of a mystery to most people. In this article, we will help",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/632e1b72ebcca52d9f075951_Penni-payment-min.jpg",
+    "date": "January 25, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "3-reasons-your-business-needs-ecommerce-credit-card-processing",
+    "title": "3 Reasons Your Business Needs Ecommerce Credit Card Processing",
+    "description": "If you&#x27;re selling online, you need to accept credit cards.",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/632cfa31f95f186dc20a4cda_Penni-processing2-min.jpg",
+    "date": "January 29, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "penni-one-less-thing-to-worry-about-when-setting-up-an-ecommerce-company-in-canada",
+    "title": "Penni: one less thing to worry about when setting up an ecommerce company in Canada",
+    "description": "Setting up an ecommerce company in Canada?",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/632cf9e96f975d5fc61cb832_Penni-ecommercejpg-min.jpg",
+    "date": "November 17, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "pennis-simple-guide-to-payment-processing-online",
+    "title": "Penni’s Simple Guide to Payment Processing Online",
+    "description": "So you want to start accepting payments online?",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/632cf89da20f482ea6f3e169_Penni-payment2-min.jpg",
+    "date": "January 28, 2023",
+    "reading": "12"
+  },
+  {
+    "slug": "want-to-boost-your-online-sales-these-ecommerce-trends-can-help",
+    "title": "Want To Boost Your Online Sales? These Ecommerce Trends Can Help",
+    "description": "The shift to online sales is only forecasted to grow over the next year. Did you know that eCommerce sales are expected to reach $6.5 trillion in 2023? People don’t just want to buy products and services online, but 63% of people’s buying j",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/632cf916b574b0438ad06cd8_Penni-online-processing-min.jpg",
+    "date": "December 1, 2021",
+    "reading": "12"
+  },
+  {
+    "slug": "choosing-the-best-bank-card-terminal-for-your-business",
+    "title": "Choosing the Best Bank Card Terminal for Your Business",
+    "description": "To accept payment in person you will need a bank card terminal. There are plenty of terminals to choose from, so it&#x27;s really up to you and your business to find which terminal and payment processing provider is the best for you. This a",
+    "hero": "https://cdn.prod.website-files.com/611408064d776fcf2770cd9a/613a4ede415c5f87a402ed60_choose-the-best-bank-card.jpg",
+    "date": "February 1, 2023",
+    "reading": "12"
+  }
+]
