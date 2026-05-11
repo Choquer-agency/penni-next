@@ -106,56 +106,100 @@ section.section:has(.splide.penni-blog) {
   padding-top: 6rem; /* ~20% increase over the implicit section spacing */
 }
 
-/* Mobile blog cards (the /blog page): match the reference design exactly. Applies at all widths so it also fixes desktop oddities; image height kept reasonable for mobile. */
-.articles_item.is--cms {
-  justify-content: flex-start !important;
-  height: auto !important;
-  display: flex !important;
-  flex-direction: column !important;
+/* Blog index cards — tighten layout. Scoped to NOT first-child on desktop so the Webflow inline "featured first card" rules win there.
+   On tablet/mobile (≤991px) the inline styles already collapse first-child to column, so apply to all cards. */
+
+/* Desktop: skip the first card (it has Webflow's featured horizontal layout) */
+@media (min-width: 992px) {
+  .blogs:not(:first-child) .articles_item.is--cms {
+    justify-content: flex-start !important;
+    height: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .blogs:not(:first-child) .articles_item.is--cms .article_image-wrapper {
+    margin: 0 0 1.25rem 0 !important;
+    padding: 0 !important;
+  }
+  .blogs:not(:first-child) .articles_item.is--cms .article_image {
+    width: 100% !important;
+    height: 16rem !important;
+    aspect-ratio: auto !important;
+    object-fit: cover !important;
+    border-radius: 1em !important;
+    display: block !important;
+  }
+  .blogs:not(:first-child) .articles_item.is--cms .article_grid-bottom {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    justify-content: flex-start !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .blogs:not(:first-child) .articles_item.is--cms .article_details {
+    margin: 0 0 0.75rem 0 !important;
+    padding: 0 !important;
+  }
+  .blogs:not(:first-child) .articles_item.is--cms .article_date {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .blogs:not(:first-child) .articles_item.is--cms .text-style-articletitle {
+    line-height: 1.3 !important;
+  }
 }
-.articles_item.is--cms .article_image-wrapper {
-  margin: 0 0 1.25rem 0 !important;
-  padding: 0 !important;
+
+/* Tablet + mobile (≤991px): apply to all cards uniformly */
+@media (max-width: 991px) {
+  .articles_item.is--cms {
+    justify-content: flex-start !important;
+    height: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .articles_item.is--cms .article_image-wrapper {
+    margin: 0 0 1.25rem 0 !important;
+    padding: 0 !important;
+  }
+  .articles_item.is--cms .article_image {
+    width: 100% !important;
+    height: 16rem !important;
+    aspect-ratio: auto !important;
+    object-fit: cover !important;
+    border-radius: 1em !important;
+    display: block !important;
+  }
+  .articles_item.is--cms .article_grid-bottom {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+    justify-content: flex-start !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .articles_item.is--cms .article_details {
+    margin: 0 0 0.75rem 0 !important;
+    padding: 0 !important;
+  }
+  .articles_item.is--cms .article_date {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .articles_item.is--cms .text-style-articletitle,
+  .articles_item.is--cms .text-style-articletitle.blog {
+    font-size: 1.25rem !important;
+    line-height: 1.3 !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+  .articles_item.is--cms {
+    margin-bottom: 3rem !important;
+  }
 }
-.articles_item.is--cms .article_image {
-  width: 100% !important;
-  height: 16rem !important;
-  aspect-ratio: auto !important;
-  object-fit: cover !important;
-  object-position: center !important;
-  border-radius: 1em !important;
-  display: block !important;
-}
-.articles_item.is--cms .article_grid-bottom {
-  margin: 0 !important;
-  padding: 0 !important;
-  height: auto !important;
-  justify-content: flex-start !important;
-  display: flex !important;
-  flex-direction: column !important;
-}
-.articles_item.is--cms .article_details {
-  margin: 0 0 0.75rem 0 !important;
-  padding: 0 !important;
-}
-.articles_item.is--cms .article_date {
-  margin: 0 !important;
-  padding: 0 !important;
-}
-.articles_item.is--cms .text-style-articletitle,
-.articles_item.is--cms .text-style-articletitle.blog {
-  font-size: 1.25rem !important;
-  line-height: 1.3 !important;
-  width: 100% !important;
-  margin: 0 !important;
-}
-.articles_item.is--cms {
-  margin-bottom: 3rem !important;
-}
-/* Kill the .blogs:first-child {margin-bottom: 10em} override that made blog #1 push everything down */
-.blogs:first-child {
-  margin-bottom: 0 !important;
-}
+
+/* All widths: kill the .blogs:first-child {margin-bottom: 10em} push-down */
+.blogs:first-child,
 .blogs {
   margin-bottom: 0 !important;
 }
