@@ -204,6 +204,16 @@ section.section:has(.splide.penni-blog) {
   margin-bottom: 0 !important;
 }
 
+/* Desktop featured first card: reduce H2 by ~20% and add breathing room below */
+@media (min-width: 992px) {
+  .blogs:first-child .text-style-articletitle {
+    font-size: 3.2em !important;
+  }
+  .blogs:first-child {
+    margin-bottom: 6rem !important;
+  }
+}
+
 /* Mobile Penni Blog: stack the two blog cards vertically instead of side-by-side Splide carousel */
 @media (max-width: 767px) {
   .splide.penni-blog .splide__track {
@@ -247,8 +257,23 @@ section.section:has(.splide.penni-blog) {
 .g-nav {
   transition: background-color 0.25s ease;
 }
-.g-nav.is-scrolled {
+.g-nav.is-scrolled,
+body[data-route="blog"] .g-nav {
   background-color: #1e203a !important;
+}
+/* Match the scrolled-state white text + white logo for the always-navy blog nav */
+body[data-route="blog"] .g-nav,
+body[data-route="blog"] .g-nav .c-nav_link-text,
+body[data-route="blog"] .g-nav .nav-linkblock,
+body[data-route="blog"] .g-nav .nav-linkblock div,
+body[data-route="blog"] .g-nav .dropdown_title,
+body[data-route="blog"] .g-nav .dropdown_link {
+  color: #fff !important;
+}
+body[data-route="blog"] .g-nav .g-nav_logo-home svg,
+body[data-route="blog"] .g-nav .g-nav_logo-home svg path {
+  fill: #fff !important;
+  color: #fff !important;
 }
 .g-nav.is-scrolled,
 .g-nav.is-scrolled .c-nav_link-text,
