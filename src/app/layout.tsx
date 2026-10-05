@@ -68,6 +68,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" suppressHydrationWarning data-wf-page="620c3865d295b0b054f9634f" data-wf-site="5fcfcc0b8ef7205bada598ac">
       <head>
+        {/* The legacy GTM container includes an unrelated agency destination. */}
+        <Script id="exclude-choquer-analytics" strategy="beforeInteractive">
+          {`window['ga-disable-G-4HPPCEB8HB']=true;`}
+        </Script>
         <link rel="stylesheet" href="https://calendly.com/assets/external/widget.css" />
         <Script id="wf-mod-bootstrap" strategy="beforeInteractive">
           {wfModBootstrap}
